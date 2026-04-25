@@ -56,12 +56,12 @@ const sebas: Developer = {
 　　　　　　　bushidō · el código del guerrero
 ```
 
-- 🔴 **PHP / Laravel** — mi arma principal
-- 🔵 **Java** — disciplina y estructura
-- 🟡 **Python** — versatilidad y velocidad
-- ⚪ **C++** — el camino del bajo nivel
-- 🔷 **TypeScript** — el horizonte que conquisto ahora
 
+・ PHP / Laravel — Desarrollo de backend y lógica de negocio principal.
+・ Java — Implementación de sistemas bajo arquitecturas robustas.
+・ Python — Automatización y resolución eficiente de algoritmos.
+・ C++ — Gestión de memoria y fundamentos de bajo nivel.
+・ TypeScript — Transición hacia entornos seguros y escalables.
 ---
 
 ### 📊 Stats
