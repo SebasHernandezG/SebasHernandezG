@@ -4,7 +4,7 @@
 
 ---
 
-## 🙋 Sobre mí
+##  Sobre mí
 
 - 🚀 Apasionado del desarrollo web y backend con **PHP** y **Laravel**
 - ☕ Fan del ecosistema **Java** y de pensar en bajo nivel con **C++**
