@@ -15,54 +15,39 @@ kaihatsusha
 　　　　　　　waza · el arte del stack
 ```
 
-### 🌐 Web & Backend
-![PHP](https://img.shields.io/badge/PHP-1a1830?style=flat-square&logo=php&logoColor=4F5D95)
-![Laravel](https://img.shields.io/badge/Laravel-1e100f?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Composer](https://img.shields.io/badge/Composer-18120e?style=flat-square&logo=composer&logoColor=885630)
-![XAMPP](https://img.shields.io/badge/XAMPP-1a1010?style=flat-square&logo=xampp&logoColor=FB7A24)
-![Laragon](https://img.shields.io/badge/Laragon-0e1a10?style=flat-square&logo=laragon&logoColor=43a047)
+---
+
+## ⚙️ Tech Stack
+
+### 🌐 Backend & Web
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E9BB7?style=for-the-badge&logo=laragon&logoColor=white)
 
 ### 💻 Lenguajes
-![Java](https://img.shields.io/badge/Java-0a1520?style=flat-square&logo=openjdk&logoColor=007396)
-![Python](https://img.shields.io/badge/Python-0d1520?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0a1520?style=flat-square&logo=cplusplus&logoColor=00599C)
-![TypeScript](https://img.shields.io/badge/TypeScript_◈_aprendiendo-0d1525?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🗄️ Base de datos & Herramientas
-![MySQL](https://img.shields.io/badge/MySQL-0a1520?style=flat-square&logo=mysql&logoColor=4479A1)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-12101a?style=flat-square&logo=phpmyadmin&logoColor=6C78AF)
-![Postman](https://img.shields.io/badge/Postman-1e1108?style=flat-square&logo=postman&logoColor=FF6C37)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-```
-　　　　　　　修行中
-　　　　　　　shūgyō · en entrenamiento
-```
-
-```typescript
-// TypeScript — el camino del tipado estático
-const sebas: Developer = {
-  aprendiendo: "TypeScript",
-  meta: "dominar interfaces, tipos y el frontend moderno",
-  estado: "en progreso... ⟳"
-};
-```
-
----
+## 🔄 Aprendiendo ahora
 
 ```
+TypeScript → llevando mis habilidades al siguiente nivel con tipado estático
+```
+
 　　　　　　　武道
 　　　　　　　bushidō · el código del guerrero
-```
 
-
-・ PHP / Laravel — Desarrollo de backend y lógica de negocio principal.
-・ Java — Implementación de sistemas bajo arquitecturas robustas.
-・ Python — Automatización y resolución eficiente de algoritmos.
-・ C++ — Gestión de memoria y fundamentos de bajo nivel.
-・ TypeScript — Transición hacia entornos seguros y escalables.
----
 
 ### 📊 Stats
 
