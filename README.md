@@ -156,13 +156,12 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebasHernandezG/SebasHernandezG/output/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SebasHernandezG/SebasHernandezG/output/dist/snake.svg" />
-  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/SebasHernandezG/SebasHernandezG/output/dist/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebasHernandezG/SebasHernandezG/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SebasHernandezG/SebasHernandezG/output/snake.svg" />
+  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/SebasHernandezG/SebasHernandezG/output/snake.svg" />
 </picture>
 
 </div>
-
 <br>
 
 <div align="center">
